@@ -1,6 +1,6 @@
     Juan Felipe Rubio Sanabria J1  
 
-Informacion sobre Date kavasckiropt:  
+Informacion sobre Date javascript:  
 
     -getDay() 
 
